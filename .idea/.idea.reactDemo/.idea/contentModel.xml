@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\reactDemo" t="IncludeFlat">
+      <e p="node_modules" t="ExcludeRecursive">
+        <e p="@babel\parser" t="IncludeRecursive" />
+        <e p="@babel\types" t="IncludeRecursive" />
+        <e p="@testing-library\jest-dom" t="IncludeRecursive" />
+        <e p="@testing-library\react" t="IncludeRecursive" />
+        <e p="@testing-library\user-event" t="IncludeRecursive" />
+        <e p="@types" t="IncludeRecursive">
+          <e p="babel__generator" t="IncludeRecursive" />
+          <e p="babel__template" t="IncludeRecursive" />
+          <e p="babel__traverse" t="IncludeRecursive" />
+          <e p="events" t="IncludeRecursive" />
+          <e p="istanbul-lib-coverage" t="IncludeRecursive" />
+          <e p="istanbul-lib-report" t="IncludeRecursive" />
+          <e p="minimatch" t="IncludeRecursive" />
+          <e p="node" t="IncludeRecursive" />
+          <e p="prop-types" t="IncludeRecursive" />
+          <e p="react" t="IncludeRecursive" />
+          <e p="react-dom" t="IncludeRecursive" />
+          <e p="testing-library__dom" t="IncludeRecursive" />
+          <e p="yargs-parser" t="IncludeRecursive" />
+        </e>
+        <e p="csstype" t="IncludeRecursive" />
+        <e p="gh-pages" t="IncludeRecursive" />
+        <e p="pretty-format" t="IncludeRecursive" />
+        <e p="react" t="IncludeRecursive" />
+        <e p="react-dom" t="IncludeRecursive" />
+        <e p="react-scripts" t="IncludeRecursive" />
+      </e>
+    </e>
+    <e p="C:\Users\vika\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\vika\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_reactDemo.-256928240.00" t="ExcludeRecursive" />
+  </component>
+</project>

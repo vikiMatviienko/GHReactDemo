@@ -1,0 +1,11 @@
+.BillingCodesPanel {
+    cursor: default;
+    padding-top: 2.4rem;
+    user-select: none;
+}
+
+@media screen and (min-width: 769px) {
+    .BillingCodesPanel {
+        text-align: right;
+    }
+}
